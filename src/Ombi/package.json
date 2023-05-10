@@ -66,7 +66,7 @@
     "ngx-chips": "^2.1.0",
     "ngx-clipboard": "^11.1.1",
     "ngx-editor": "^4.1.0",
-    "ngx-infinite-scroll": "^6.0.1",
+    "ngx-infinite-scroll": "^6.9.1",
     "ngx-moment": "^3.0.1",
     "ngx-order-pipe": "^2.0.1",
     "node-sass": "^4.9.0",
@@ -99,6 +99,6 @@
     "cypress/**/@types/sinon": "4.3.3"
   },
   "devDependencies": {
-    "cypress": "^3.1.0"
+    "cypress": "^12.12.0"
   }
 }
